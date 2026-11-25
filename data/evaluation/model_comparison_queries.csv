@@ -1,0 +1,17 @@
+﻿query_id,language,query,relevant_ids,note
+EN-01,en,What does a subnet mask tell us about an IPv4 network?,DOC-0001;DOC-0002;DOC-0003,IPv4 subnetting paraphrase
+EN-02,en,How can I spot a fraudulent email trying to steal my password?,DOC-0025;DOC-0026;DOC-0027,Phishing detection paraphrase
+EN-03,en,Why does a text vector help find a similar sentence?,DOC-0121;DOC-0122;DOC-0123,Embeddings paraphrase
+EN-04,en,How can we measure similarity between two vectors?,DOC-0124;DOC-0125;DOC-0126,Cosine similarity
+EN-05,en,How are KMeans groups formed without labels?,DOC-0088;DOC-0089;DOC-0090,Clustering/KMeans
+EN-06,en,How do you find someone’s location using a robot?,DOC-0199;DOC-0200;DOC-0201,Robot localization paraphrase
+EN-07,en,What can I do to protect patient records?,DOC-0217;DOC-0218;DOC-0219,Patient privacy
+EN-08,en,Why use a separate branch before merging code?,DOC-0271;DOC-0272;DOC-0273,Git feature branches
+AR-01,ar,ما فائدة قناع الشبكة في عنوان آي بي؟,DOC-0001;DOC-0002;DOC-0003,Arabic query -> English IPv4 notes
+AR-02,ar,كيف أكتشف رسالة تصيد تحاول سرقة كلمة المرور؟,DOC-0025;DOC-0026;DOC-0027,Arabic query -> English phishing notes
+AR-03,ar,كيف نمثل معنى الجملة بأرقام للبحث الدلالي؟,DOC-0121;DOC-0122;DOC-0123,Arabic query -> English embedding notes
+AR-04,ar,كيف نقيس التشابه بين متجهين باستخدام جيب التمام؟,DOC-0124;DOC-0125;DOC-0126,Arabic query -> English cosine notes
+AR-05,ar,كيف أجمع البيانات المتشابهة بدون تسميات؟,DOC-0088;DOC-0089;DOC-0090,Arabic query -> English KMeans notes
+AR-06,ar,كيف يعرف الروبوت موقعه أثناء الحركة؟,DOC-0199;DOC-0200;DOC-0201,Arabic query -> English localization notes
+AR-07,ar,كيف أحمي خصوصية بيانات المرضى في التطبيقات الطبية؟,DOC-0217;DOC-0218;DOC-0219,Arabic query -> English patient privacy notes
+AR-08,ar,لماذا نستخدم فرعاً منفصلاً عند العمل على مشروع جيت؟,DOC-0271;DOC-0272;DOC-0273,Arabic query -> English feature branch notes
