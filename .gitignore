@@ -1,0 +1,26 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.env.*
+
+# Local model files and caches
+models/
+.cache/
+*.safetensors
+*.bin
+
+# Local vector database
+chroma_db/
+
+# Testing cache
+.pytest_cache/
+
+# IDE settings
+.vscode/
