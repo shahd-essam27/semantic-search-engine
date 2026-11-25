@@ -1,0 +1,289 @@
+id,text,category,date,source
+DOC-0001,IPv4 subnet masks: A subnet mask separates a network portion from the host portion of an IPv4 address.,networking,2026-01-01,original_demo_notes_v1
+DOC-0002,Practical guidance for IPv4 subnet masks: Learn to calculate network boundaries before configuring routes.,networking,2026-01-04,original_demo_notes_v1
+DOC-0003,Learning note on IPv4 subnet masks. A subnet mask separates a network portion from the host portion of an IPv4 address. Learn to calculate network boundaries before configuring routes.,networking,2026-01-07,original_demo_notes_v1
+DOC-0004,DNS resolution: DNS translates domain names into IP addresses using resolvers and authoritative records.,networking,2026-01-10,original_demo_notes_v1
+DOC-0005,Practical guidance for DNS resolution: Test name resolution before assuming a server is offline.,networking,2026-01-13,original_demo_notes_v1
+DOC-0006,Learning note on DNS resolution. DNS translates domain names into IP addresses using resolvers and authoritative records. Test name resolution before assuming a server is offline.,networking,2026-01-16,original_demo_notes_v1
+DOC-0007,routing tables: A routing table determines which next hop receives an outgoing IP packet.,networking,2026-01-19,original_demo_notes_v1
+DOC-0008,Practical guidance for routing tables: Use route inspection to troubleshoot unreachable destinations.,networking,2026-01-22,original_demo_notes_v1
+DOC-0009,Learning note on routing tables. A routing table determines which next hop receives an outgoing IP packet. Use route inspection to troubleshoot unreachable destinations.,networking,2026-01-25,original_demo_notes_v1
+DOC-0010,VLAN segmentation: VLANs divide a switched network into logical broadcast domains.,networking,2026-01-28,original_demo_notes_v1
+DOC-0011,Practical guidance for VLAN segmentation: Inter-VLAN traffic normally requires routing.,networking,2026-01-31,original_demo_notes_v1
+DOC-0012,Learning note on VLAN segmentation. VLANs divide a switched network into logical broadcast domains. Inter-VLAN traffic normally requires routing.,networking,2026-02-03,original_demo_notes_v1
+DOC-0013,DHCP leases: DHCP assigns client addresses and other settings for a limited lease duration.,networking,2026-02-06,original_demo_notes_v1
+DOC-0014,Practical guidance for DHCP leases: Check pool exhaustion and relay configuration when leases fail.,networking,2026-02-09,original_demo_notes_v1
+DOC-0015,Learning note on DHCP leases. DHCP assigns client addresses and other settings for a limited lease duration. Check pool exhaustion and relay configuration when leases fail.,networking,2026-02-12,original_demo_notes_v1
+DOC-0016,"TCP handshakes: TCP establishes a connection using a three-way SYN, SYN-ACK and ACK exchange.",networking,2026-02-15,original_demo_notes_v1
+DOC-0017,Practical guidance for TCP handshakes: Packet captures can expose connection establishment errors.,networking,2026-02-18,original_demo_notes_v1
+DOC-0018,"Learning note on TCP handshakes. TCP establishes a connection using a three-way SYN, SYN-ACK and ACK exchange. Packet captures can expose connection establishment errors.",networking,2026-02-21,original_demo_notes_v1
+DOC-0019,wireless channels: Wi-Fi access points compete for radio channels and airtime.,networking,2026-02-24,original_demo_notes_v1
+DOC-0020,Practical guidance for wireless channels: Channel planning reduces avoidable interference.,networking,2026-02-27,original_demo_notes_v1
+DOC-0021,Learning note on wireless channels. Wi-Fi access points compete for radio channels and airtime. Channel planning reduces avoidable interference.,networking,2026-03-02,original_demo_notes_v1
+DOC-0022,firewalls: Firewalls allow or deny traffic according to predefined rules.,networking,2026-03-05,original_demo_notes_v1
+DOC-0023,Practical guidance for firewalls: Review rule order and default actions during testing.,networking,2026-03-08,original_demo_notes_v1
+DOC-0024,Learning note on firewalls. Firewalls allow or deny traffic according to predefined rules. Review rule order and default actions during testing.,networking,2026-03-11,original_demo_notes_v1
+DOC-0025,phishing detection: Phishing messages try to trick users into revealing credentials or opening harmful links.,cybersecurity,2026-03-14,original_demo_notes_v1
+DOC-0026,Practical guidance for phishing detection: Inspect sender details and verify unusual requests independently.,cybersecurity,2026-03-17,original_demo_notes_v1
+DOC-0027,Learning note on phishing detection. Phishing messages try to trick users into revealing credentials or opening harmful links. Inspect sender details and verify unusual requests independently.,cybersecurity,2026-03-20,original_demo_notes_v1
+DOC-0028,password hygiene: Long unique passwords reduce the impact of credential reuse.,cybersecurity,2026-03-23,original_demo_notes_v1
+DOC-0029,Practical guidance for password hygiene: Use a password manager and enable multifactor authentication.,cybersecurity,2026-03-26,original_demo_notes_v1
+DOC-0030,Learning note on password hygiene. Long unique passwords reduce the impact of credential reuse. Use a password manager and enable multifactor authentication.,cybersecurity,2026-03-29,original_demo_notes_v1
+DOC-0031,least privilege: Least privilege grants only the permissions required for a task.,cybersecurity,2026-04-01,original_demo_notes_v1
+DOC-0032,Practical guidance for least privilege: Review access regularly and remove unused privileges.,cybersecurity,2026-04-04,original_demo_notes_v1
+DOC-0033,Learning note on least privilege. Least privilege grants only the permissions required for a task. Review access regularly and remove unused privileges.,cybersecurity,2026-04-07,original_demo_notes_v1
+DOC-0034,log analysis: Security logs record events such as authentication attempts and configuration changes.,cybersecurity,2026-04-10,original_demo_notes_v1
+DOC-0035,Practical guidance for log analysis: Correlate timestamps and event sources when investigating incidents.,cybersecurity,2026-04-13,original_demo_notes_v1
+DOC-0036,Learning note on log analysis. Security logs record events such as authentication attempts and configuration changes. Correlate timestamps and event sources when investigating incidents.,cybersecurity,2026-04-16,original_demo_notes_v1
+DOC-0037,vulnerability patching: Software updates can fix known exploitable security flaws.,cybersecurity,2026-04-19,original_demo_notes_v1
+DOC-0038,Practical guidance for vulnerability patching: Prioritize exposed systems and test patches before deployment.,cybersecurity,2026-04-22,original_demo_notes_v1
+DOC-0039,Learning note on vulnerability patching. Software updates can fix known exploitable security flaws. Prioritize exposed systems and test patches before deployment.,cybersecurity,2026-04-25,original_demo_notes_v1
+DOC-0040,network scanning: Authorized scanning can enumerate reachable hosts and available services.,cybersecurity,2026-04-28,original_demo_notes_v1
+DOC-0041,Practical guidance for network scanning: Define scope and obtain permission before scanning.,cybersecurity,2026-05-01,original_demo_notes_v1
+DOC-0042,Learning note on network scanning. Authorized scanning can enumerate reachable hosts and available services. Define scope and obtain permission before scanning.,cybersecurity,2026-05-04,original_demo_notes_v1
+DOC-0043,"incident response: Incident response coordinates detection, containment, eradication and recovery.",cybersecurity,2026-05-07,original_demo_notes_v1
+DOC-0044,Practical guidance for incident response: Preserve evidence and record actions as they occur.,cybersecurity,2026-05-10,original_demo_notes_v1
+DOC-0045,"Learning note on incident response. Incident response coordinates detection, containment, eradication and recovery. Preserve evidence and record actions as they occur.",cybersecurity,2026-05-13,original_demo_notes_v1
+DOC-0046,encryption basics: Encryption protects information by transforming plaintext using a key.,cybersecurity,2026-05-16,original_demo_notes_v1
+DOC-0047,Practical guidance for encryption basics: Protect cryptographic keys separately from encrypted data.,cybersecurity,2026-05-19,original_demo_notes_v1
+DOC-0048,Learning note on encryption basics. Encryption protects information by transforming plaintext using a key. Protect cryptographic keys separately from encrypted data.,cybersecurity,2026-05-22,original_demo_notes_v1
+DOC-0049,Python lists: Lists store ordered mutable collections of values.,python,2026-05-25,original_demo_notes_v1
+DOC-0050,Practical guidance for Python lists: Use comprehensions to transform small collections clearly.,python,2026-05-28,original_demo_notes_v1
+DOC-0051,Learning note on Python lists. Lists store ordered mutable collections of values. Use comprehensions to transform small collections clearly.,python,2026-05-31,original_demo_notes_v1
+DOC-0052,Python dictionaries: Dictionaries map hashable keys to values for fast lookups.,python,2026-06-03,original_demo_notes_v1
+DOC-0053,Practical guidance for Python dictionaries: Handle missing keys with get or explicit checks.,python,2026-06-06,original_demo_notes_v1
+DOC-0054,Learning note on Python dictionaries. Dictionaries map hashable keys to values for fast lookups. Handle missing keys with get or explicit checks.,python,2026-06-09,original_demo_notes_v1
+DOC-0055,virtual environments: A Python virtual environment isolates project dependencies from other environments.,python,2026-06-12,original_demo_notes_v1
+DOC-0056,Practical guidance for virtual environments: Select the local interpreter before installing packages.,python,2026-06-15,original_demo_notes_v1
+DOC-0057,Learning note on virtual environments. A Python virtual environment isolates project dependencies from other environments. Select the local interpreter before installing packages.,python,2026-06-18,original_demo_notes_v1
+DOC-0058,CSV parsing: The csv module reads comma-separated records while handling quoted fields.,python,2026-06-21,original_demo_notes_v1
+DOC-0059,Practical guidance for CSV parsing: Validate header names and encoding before processing data.,python,2026-06-24,original_demo_notes_v1
+DOC-0060,Learning note on CSV parsing. The csv module reads comma-separated records while handling quoted fields. Validate header names and encoding before processing data.,python,2026-06-27,original_demo_notes_v1
+DOC-0061,exception handling: Try and except blocks handle predictable failures without crashing a program.,python,2026-06-30,original_demo_notes_v1
+DOC-0062,Practical guidance for exception handling: Catch specific exceptions and show actionable messages.,python,2026-07-03,original_demo_notes_v1
+DOC-0063,Learning note on exception handling. Try and except blocks handle predictable failures without crashing a program. Catch specific exceptions and show actionable messages.,python,2026-07-06,original_demo_notes_v1
+DOC-0064,unit testing: Unit tests confirm functions behave as expected on representative inputs.,python,2026-07-09,original_demo_notes_v1
+DOC-0065,Practical guidance for unit testing: Include boundary cases and invalid inputs.,python,2026-07-12,original_demo_notes_v1
+DOC-0066,Learning note on unit testing. Unit tests confirm functions behave as expected on representative inputs. Include boundary cases and invalid inputs.,python,2026-07-15,original_demo_notes_v1
+DOC-0067,package installation: Pip installs Python distributions into the chosen interpreter environment.,python,2026-07-18,original_demo_notes_v1
+DOC-0068,Practical guidance for package installation: Use python -m pip to avoid selecting the wrong interpreter.,python,2026-07-21,original_demo_notes_v1
+DOC-0069,Learning note on package installation. Pip installs Python distributions into the chosen interpreter environment. Use python -m pip to avoid selecting the wrong interpreter.,python,2026-07-24,original_demo_notes_v1
+DOC-0070,filesystem paths: Pathlib represents filesystem paths with portable path objects.,python,2026-07-27,original_demo_notes_v1
+DOC-0071,Practical guidance for filesystem paths: Resolve project paths relative to the script rather than the current directory.,python,2026-07-30,original_demo_notes_v1
+DOC-0072,Learning note on filesystem paths. Pathlib represents filesystem paths with portable path objects. Resolve project paths relative to the script rather than the current directory.,python,2026-08-02,original_demo_notes_v1
+DOC-0073,train test split: A train-test split measures how a model performs on examples withheld from training.,machine_learning,2026-08-05,original_demo_notes_v1
+DOC-0074,Practical guidance for train test split: Prevent related samples from leaking between splits.,machine_learning,2026-08-08,original_demo_notes_v1
+DOC-0075,Learning note on train test split. A train-test split measures how a model performs on examples withheld from training. Prevent related samples from leaking between splits.,machine_learning,2026-08-11,original_demo_notes_v1
+DOC-0076,classification metrics: Precision and recall measure different aspects of classification quality.,machine_learning,2026-08-14,original_demo_notes_v1
+DOC-0077,Practical guidance for classification metrics: Inspect confusion matrices when errors have different costs.,machine_learning,2026-08-17,original_demo_notes_v1
+DOC-0078,Learning note on classification metrics. Precision and recall measure different aspects of classification quality. Inspect confusion matrices when errors have different costs.,machine_learning,2026-08-20,original_demo_notes_v1
+DOC-0079,feature scaling: Feature scaling adjusts numeric variables to comparable ranges.,machine_learning,2026-08-23,original_demo_notes_v1
+DOC-0080,Practical guidance for feature scaling: Fit scaling parameters on training data only.,machine_learning,2026-08-26,original_demo_notes_v1
+DOC-0081,Learning note on feature scaling. Feature scaling adjusts numeric variables to comparable ranges. Fit scaling parameters on training data only.,machine_learning,2026-08-29,original_demo_notes_v1
+DOC-0082,overfitting: Overfitting occurs when a model memorizes training patterns that do not generalize.,machine_learning,2026-09-01,original_demo_notes_v1
+DOC-0083,Practical guidance for overfitting: Use validation data and regularization to manage complexity.,machine_learning,2026-09-04,original_demo_notes_v1
+DOC-0084,Learning note on overfitting. Overfitting occurs when a model memorizes training patterns that do not generalize. Use validation data and regularization to manage complexity.,machine_learning,2026-09-07,original_demo_notes_v1
+DOC-0085,clustering: Clustering discovers patterns by grouping similar samples without target labels.,machine_learning,2026-09-10,original_demo_notes_v1
+DOC-0086,Practical guidance for clustering: Inspect examples before assigning human-readable cluster names.,machine_learning,2026-09-13,original_demo_notes_v1
+DOC-0087,Learning note on clustering. Clustering discovers patterns by grouping similar samples without target labels. Inspect examples before assigning human-readable cluster names.,machine_learning,2026-09-16,original_demo_notes_v1
+DOC-0088,KMeans: KMeans groups vectors around k centroids by minimizing within-cluster variation.,machine_learning,2026-09-19,original_demo_notes_v1
+DOC-0089,Practical guidance for KMeans: Try several k values and examine cluster stability.,machine_learning,2026-09-22,original_demo_notes_v1
+DOC-0090,Learning note on KMeans. KMeans groups vectors around k centroids by minimizing within-cluster variation. Try several k values and examine cluster stability.,machine_learning,2026-09-25,original_demo_notes_v1
+DOC-0091,model evaluation: Evaluation uses a held-out dataset and predefined performance measures.,machine_learning,2026-09-28,original_demo_notes_v1
+DOC-0092,Practical guidance for model evaluation: Compare alternatives with consistent test conditions.,machine_learning,2026-10-01,original_demo_notes_v1
+DOC-0093,Learning note on model evaluation. Evaluation uses a held-out dataset and predefined performance measures. Compare alternatives with consistent test conditions.,machine_learning,2026-10-04,original_demo_notes_v1
+DOC-0094,data leakage: Data leakage gives a model information unavailable at prediction time.,machine_learning,2026-10-07,original_demo_notes_v1
+DOC-0095,Practical guidance for data leakage: Audit preprocessing and split boundaries.,machine_learning,2026-10-10,original_demo_notes_v1
+DOC-0096,Learning note on data leakage. Data leakage gives a model information unavailable at prediction time. Audit preprocessing and split boundaries.,machine_learning,2026-10-13,original_demo_notes_v1
+DOC-0097,tokenization: A tokenizer divides text into units that a language model can process.,llms,2026-10-16,original_demo_notes_v1
+DOC-0098,Practical guidance for tokenization: Token counts affect prompt length and inference cost.,llms,2026-10-19,original_demo_notes_v1
+DOC-0099,Learning note on tokenization. A tokenizer divides text into units that a language model can process. Token counts affect prompt length and inference cost.,llms,2026-10-22,original_demo_notes_v1
+DOC-0100,prompt instructions: A clear prompt specifies task constraints and desired output format.,llms,2026-10-25,original_demo_notes_v1
+DOC-0101,Practical guidance for prompt instructions: Provide examples when labels or formatting are ambiguous.,llms,2026-01-01,original_demo_notes_v1
+DOC-0102,Learning note on prompt instructions. A clear prompt specifies task constraints and desired output format. Provide examples when labels or formatting are ambiguous.,llms,2026-01-04,original_demo_notes_v1
+DOC-0103,hallucination: A language model can produce plausible statements unsupported by evidence.,llms,2026-01-07,original_demo_notes_v1
+DOC-0104,Practical guidance for hallucination: Use retrieval and verification for factual applications.,llms,2026-01-10,original_demo_notes_v1
+DOC-0105,Learning note on hallucination. A language model can produce plausible statements unsupported by evidence. Use retrieval and verification for factual applications.,llms,2026-01-13,original_demo_notes_v1
+DOC-0106,context windows: The context window limits how much input and generated text can be considered together.,llms,2026-01-16,original_demo_notes_v1
+DOC-0107,Practical guidance for context windows: Chunk large documents instead of sending everything at once.,llms,2026-01-19,original_demo_notes_v1
+DOC-0108,Learning note on context windows. The context window limits how much input and generated text can be considered together. Chunk large documents instead of sending everything at once.,llms,2026-01-22,original_demo_notes_v1
+DOC-0109,temperature: Temperature adjusts randomness in next-token sampling for many language models.,llms,2026-01-25,original_demo_notes_v1
+DOC-0110,Practical guidance for temperature: Use lower settings for reproducible structured output.,llms,2026-01-28,original_demo_notes_v1
+DOC-0111,Learning note on temperature. Temperature adjusts randomness in next-token sampling for many language models. Use lower settings for reproducible structured output.,llms,2026-01-31,original_demo_notes_v1
+DOC-0112,structured outputs: Structured outputs represent model responses with predictable fields and types.,llms,2026-02-03,original_demo_notes_v1
+DOC-0113,Practical guidance for structured outputs: Validate returned JSON before using it in software.,llms,2026-02-06,original_demo_notes_v1
+DOC-0114,Learning note on structured outputs. Structured outputs represent model responses with predictable fields and types. Validate returned JSON before using it in software.,llms,2026-02-09,original_demo_notes_v1
+DOC-0115,local inference: Local models generate outputs on a user-controlled machine.,llms,2026-02-12,original_demo_notes_v1
+DOC-0116,"Practical guidance for local inference: Plan for RAM, disk space and inference latency.",llms,2026-02-15,original_demo_notes_v1
+DOC-0117,"Learning note on local inference. Local models generate outputs on a user-controlled machine. Plan for RAM, disk space and inference latency.",llms,2026-02-18,original_demo_notes_v1
+DOC-0118,prompt injection: Untrusted retrieved text can attempt to override application instructions.,llms,2026-02-21,original_demo_notes_v1
+DOC-0119,Practical guidance for prompt injection: Separate source content from trusted control logic.,llms,2026-02-24,original_demo_notes_v1
+DOC-0120,Learning note on prompt injection. Untrusted retrieved text can attempt to override application instructions. Separate source content from trusted control logic.,llms,2026-02-27,original_demo_notes_v1
+DOC-0121,text embeddings: Text embeddings are numeric vectors that encode aspects of sentence meaning.,semantic_search,2026-03-02,original_demo_notes_v1
+DOC-0122,Practical guidance for text embeddings: Compare vectors generated by the same embedding model.,semantic_search,2026-03-05,original_demo_notes_v1
+DOC-0123,Learning note on text embeddings. Text embeddings are numeric vectors that encode aspects of sentence meaning. Compare vectors generated by the same embedding model.,semantic_search,2026-03-08,original_demo_notes_v1
+DOC-0124,cosine similarity: Cosine similarity measures alignment between two nonzero vectors.,semantic_search,2026-03-11,original_demo_notes_v1
+DOC-0125,Practical guidance for cosine similarity: Normalize embeddings consistently before ranking results.,semantic_search,2026-03-14,original_demo_notes_v1
+DOC-0126,Learning note on cosine similarity. Cosine similarity measures alignment between two nonzero vectors. Normalize embeddings consistently before ranking results.,semantic_search,2026-03-17,original_demo_notes_v1
+DOC-0127,vector databases: Vector databases store embeddings along with identifiers and metadata.,semantic_search,2026-03-20,original_demo_notes_v1
+DOC-0128,Practical guidance for vector databases: Use persistent storage to avoid rebuilding every time.,semantic_search,2026-03-23,original_demo_notes_v1
+DOC-0129,Learning note on vector databases. Vector databases store embeddings along with identifiers and metadata. Use persistent storage to avoid rebuilding every time.,semantic_search,2026-03-26,original_demo_notes_v1
+DOC-0130,top k retrieval: Top-k retrieval returns a fixed number of nearest indexed items.,semantic_search,2026-03-29,original_demo_notes_v1
+DOC-0131,Practical guidance for top k retrieval: Check relevance even when a top-k list is nonempty.,semantic_search,2026-04-01,original_demo_notes_v1
+DOC-0132,Learning note on top k retrieval. Top-k retrieval returns a fixed number of nearest indexed items. Check relevance even when a top-k list is nonempty.,semantic_search,2026-04-04,original_demo_notes_v1
+DOC-0133,chunk overlap: Chunk overlap repeats nearby context between successive text chunks.,semantic_search,2026-04-07,original_demo_notes_v1
+DOC-0134,Practical guidance for chunk overlap: Avoid excessive overlap that duplicates results.,semantic_search,2026-04-10,original_demo_notes_v1
+DOC-0135,Learning note on chunk overlap. Chunk overlap repeats nearby context between successive text chunks. Avoid excessive overlap that duplicates results.,semantic_search,2026-04-13,original_demo_notes_v1
+DOC-0136,metadata filters: Metadata filters restrict retrieval by fields like category or date.,semantic_search,2026-04-16,original_demo_notes_v1
+DOC-0137,Practical guidance for metadata filters: Filter first or combine filtering with similarity search.,semantic_search,2026-04-19,original_demo_notes_v1
+DOC-0138,Learning note on metadata filters. Metadata filters restrict retrieval by fields like category or date. Filter first or combine filtering with similarity search.,semantic_search,2026-04-22,original_demo_notes_v1
+DOC-0139,multilingual search: Multilingual embeddings can place related texts from different languages near each other.,semantic_search,2026-04-25,original_demo_notes_v1
+DOC-0140,Practical guidance for multilingual search: Evaluate Arabic queries rather than assuming cross-language accuracy.,semantic_search,2026-04-28,original_demo_notes_v1
+DOC-0141,Learning note on multilingual search. Multilingual embeddings can place related texts from different languages near each other. Evaluate Arabic queries rather than assuming cross-language accuracy.,semantic_search,2026-05-01,original_demo_notes_v1
+DOC-0142,retrieval evaluation: Recall at k checks whether relevant documents appear among the first k results.,semantic_search,2026-05-04,original_demo_notes_v1
+DOC-0143,Practical guidance for retrieval evaluation: Build relevance labels before comparing embedding models.,semantic_search,2026-05-07,original_demo_notes_v1
+DOC-0144,Learning note on retrieval evaluation. Recall at k checks whether relevant documents appear among the first k results. Build relevance labels before comparing embedding models.,semantic_search,2026-05-10,original_demo_notes_v1
+DOC-0145,SQL joins: Joins combine rows from two tables using matching key values.,databases,2026-05-13,original_demo_notes_v1
+DOC-0146,Practical guidance for SQL joins: Check join cardinality to avoid accidental duplicates.,databases,2026-05-16,original_demo_notes_v1
+DOC-0147,Learning note on SQL joins. Joins combine rows from two tables using matching key values. Check join cardinality to avoid accidental duplicates.,databases,2026-05-19,original_demo_notes_v1
+DOC-0148,database indexes: An index speeds selected lookups at the cost of storage and write overhead.,databases,2026-05-22,original_demo_notes_v1
+DOC-0149,Practical guidance for database indexes: Index columns used frequently for filtering.,databases,2026-05-25,original_demo_notes_v1
+DOC-0150,Learning note on database indexes. An index speeds selected lookups at the cost of storage and write overhead. Index columns used frequently for filtering.,databases,2026-05-28,original_demo_notes_v1
+DOC-0151,primary keys: A primary key uniquely identifies each row in a relational table.,databases,2026-05-31,original_demo_notes_v1
+DOC-0152,Practical guidance for primary keys: Reject duplicates and missing identifiers during import.,databases,2026-06-03,original_demo_notes_v1
+DOC-0153,Learning note on primary keys. A primary key uniquely identifies each row in a relational table. Reject duplicates and missing identifiers during import.,databases,2026-06-06,original_demo_notes_v1
+DOC-0154,transactions: Transactions group operations that should succeed or fail as a unit.,databases,2026-06-09,original_demo_notes_v1
+DOC-0155,Practical guidance for transactions: Rollback partial updates after an error.,databases,2026-06-12,original_demo_notes_v1
+DOC-0156,Learning note on transactions. Transactions group operations that should succeed or fail as a unit. Rollback partial updates after an error.,databases,2026-06-15,original_demo_notes_v1
+DOC-0157,normalization: Normalization reduces redundant data by dividing entities into related tables.,databases,2026-06-18,original_demo_notes_v1
+DOC-0158,Practical guidance for normalization: Balance normalization against workload needs.,databases,2026-06-21,original_demo_notes_v1
+DOC-0159,Learning note on normalization. Normalization reduces redundant data by dividing entities into related tables. Balance normalization against workload needs.,databases,2026-06-24,original_demo_notes_v1
+DOC-0160,data backups: Backups capture data so it can be restored after loss or corruption.,databases,2026-06-27,original_demo_notes_v1
+DOC-0161,Practical guidance for data backups: Test restore procedures instead of assuming backups work.,databases,2026-06-30,original_demo_notes_v1
+DOC-0162,Learning note on data backups. Backups capture data so it can be restored after loss or corruption. Test restore procedures instead of assuming backups work.,databases,2026-07-03,original_demo_notes_v1
+DOC-0163,"schema validation: A schema defines expected fields, types and constraints for stored data.",databases,2026-07-06,original_demo_notes_v1
+DOC-0164,Practical guidance for schema validation: Validate records before inserting them.,databases,2026-07-09,original_demo_notes_v1
+DOC-0165,"Learning note on schema validation. A schema defines expected fields, types and constraints for stored data. Validate records before inserting them.",databases,2026-07-12,original_demo_notes_v1
+DOC-0166,query planning: A query planner chooses operations used to execute a database request.,databases,2026-07-15,original_demo_notes_v1
+DOC-0167,Practical guidance for query planning: Inspect execution plans for expensive queries.,databases,2026-07-18,original_demo_notes_v1
+DOC-0168,Learning note on query planning. A query planner chooses operations used to execute a database request. Inspect execution plans for expensive queries.,databases,2026-07-21,original_demo_notes_v1
+DOC-0169,object storage: Object storage saves files as addressable objects with metadata.,cloud,2026-07-24,original_demo_notes_v1
+DOC-0170,Practical guidance for object storage: Set access policies carefully for public data.,cloud,2026-07-27,original_demo_notes_v1
+DOC-0171,Learning note on object storage. Object storage saves files as addressable objects with metadata. Set access policies carefully for public data.,cloud,2026-07-30,original_demo_notes_v1
+DOC-0172,virtual machines: Virtual machines provide isolated operating systems on shared hardware.,cloud,2026-08-02,original_demo_notes_v1
+DOC-0173,Practical guidance for virtual machines: Monitor memory and disk allocation.,cloud,2026-08-05,original_demo_notes_v1
+DOC-0174,Learning note on virtual machines. Virtual machines provide isolated operating systems on shared hardware. Monitor memory and disk allocation.,cloud,2026-08-08,original_demo_notes_v1
+DOC-0175,containers: Containers package applications with dependencies while sharing a host kernel.,cloud,2026-08-11,original_demo_notes_v1
+DOC-0176,Practical guidance for containers: Use small images and explicit version tags.,cloud,2026-08-14,original_demo_notes_v1
+DOC-0177,Learning note on containers. Containers package applications with dependencies while sharing a host kernel. Use small images and explicit version tags.,cloud,2026-08-17,original_demo_notes_v1
+DOC-0178,"service monitoring: Monitoring tracks system health through logs, metrics and alerts.",cloud,2026-08-20,original_demo_notes_v1
+DOC-0179,Practical guidance for service monitoring: Define useful alert thresholds and response owners.,cloud,2026-08-23,original_demo_notes_v1
+DOC-0180,"Learning note on service monitoring. Monitoring tracks system health through logs, metrics and alerts. Define useful alert thresholds and response owners.",cloud,2026-08-26,original_demo_notes_v1
+DOC-0181,availability zones: Availability zones help separate workloads across failure domains.,cloud,2026-08-29,original_demo_notes_v1
+DOC-0182,Practical guidance for availability zones: Design redundancy based on recovery requirements.,cloud,2026-09-01,original_demo_notes_v1
+DOC-0183,Learning note on availability zones. Availability zones help separate workloads across failure domains. Design redundancy based on recovery requirements.,cloud,2026-09-04,original_demo_notes_v1
+DOC-0184,load balancing: A load balancer distributes incoming requests among healthy instances.,cloud,2026-09-07,original_demo_notes_v1
+DOC-0185,Practical guidance for load balancing: Configure health checks for service endpoints.,cloud,2026-09-10,original_demo_notes_v1
+DOC-0186,Learning note on load balancing. A load balancer distributes incoming requests among healthy instances. Configure health checks for service endpoints.,cloud,2026-09-13,original_demo_notes_v1
+DOC-0187,infrastructure as code: Infrastructure as code defines resources using version-controlled configuration.,cloud,2026-09-16,original_demo_notes_v1
+DOC-0188,Practical guidance for infrastructure as code: Review changes before applying them.,cloud,2026-09-19,original_demo_notes_v1
+DOC-0189,Learning note on infrastructure as code. Infrastructure as code defines resources using version-controlled configuration. Review changes before applying them.,cloud,2026-09-22,original_demo_notes_v1
+DOC-0190,API rate limits: Rate limits control how many requests clients can make in a time period.,cloud,2026-09-25,original_demo_notes_v1
+DOC-0191,Practical guidance for API rate limits: Implement backoff and caching when appropriate.,cloud,2026-09-28,original_demo_notes_v1
+DOC-0192,Learning note on API rate limits. Rate limits control how many requests clients can make in a time period. Implement backoff and caching when appropriate.,cloud,2026-10-01,original_demo_notes_v1
+DOC-0193,"robot sensors: Robot sensors measure properties such as distance, motion and orientation.",robotics,2026-10-04,original_demo_notes_v1
+DOC-0194,Practical guidance for robot sensors: Calibrate sensors before comparing readings.,robotics,2026-10-07,original_demo_notes_v1
+DOC-0195,"Learning note on robot sensors. Robot sensors measure properties such as distance, motion and orientation. Calibrate sensors before comparing readings.",robotics,2026-10-10,original_demo_notes_v1
+DOC-0196,"PID control: A PID controller combines proportional, integral and derivative terms to reduce error.",robotics,2026-10-13,original_demo_notes_v1
+DOC-0197,Practical guidance for PID control: Tune gains gradually while observing stability.,robotics,2026-10-16,original_demo_notes_v1
+DOC-0198,"Learning note on PID control. A PID controller combines proportional, integral and derivative terms to reduce error. Tune gains gradually while observing stability.",robotics,2026-10-19,original_demo_notes_v1
+DOC-0199,robot localization: Localization estimates a robot position relative to a map or coordinate frame.,robotics,2026-10-22,original_demo_notes_v1
+DOC-0200,Practical guidance for robot localization: Track uncertainty in estimated poses.,robotics,2026-10-25,original_demo_notes_v1
+DOC-0201,Learning note on robot localization. Localization estimates a robot position relative to a map or coordinate frame. Track uncertainty in estimated poses.,robotics,2026-01-01,original_demo_notes_v1
+DOC-0202,path planning: Path planning selects a feasible route around obstacles to a target.,robotics,2026-01-04,original_demo_notes_v1
+DOC-0203,Practical guidance for path planning: Account for robot geometry and safety margins.,robotics,2026-01-07,original_demo_notes_v1
+DOC-0204,Learning note on path planning. Path planning selects a feasible route around obstacles to a target. Account for robot geometry and safety margins.,robotics,2026-01-10,original_demo_notes_v1
+DOC-0205,computer vision: Computer vision extracts useful information from camera images.,robotics,2026-01-13,original_demo_notes_v1
+DOC-0206,Practical guidance for computer vision: Control lighting and check robustness to occlusions.,robotics,2026-01-16,original_demo_notes_v1
+DOC-0207,Learning note on computer vision. Computer vision extracts useful information from camera images. Control lighting and check robustness to occlusions.,robotics,2026-01-19,original_demo_notes_v1
+DOC-0208,actuators: Actuators convert control signals into mechanical motion.,robotics,2026-01-22,original_demo_notes_v1
+DOC-0209,"Practical guidance for actuators: Respect torque, current and travel limits.",robotics,2026-01-25,original_demo_notes_v1
+DOC-0210,"Learning note on actuators. Actuators convert control signals into mechanical motion. Respect torque, current and travel limits.",robotics,2026-01-28,original_demo_notes_v1
+DOC-0211,SLAM: Simultaneous localization and mapping builds a map while estimating pose.,robotics,2026-01-31,original_demo_notes_v1
+DOC-0212,Practical guidance for SLAM: Evaluate map drift and loop-closure quality.,robotics,2026-02-03,original_demo_notes_v1
+DOC-0213,Learning note on SLAM. Simultaneous localization and mapping builds a map while estimating pose. Evaluate map drift and loop-closure quality.,robotics,2026-02-06,original_demo_notes_v1
+DOC-0214,"robot safety: Robot safety combines emergency stops, safeguards and risk assessment.",robotics,2026-02-09,original_demo_notes_v1
+DOC-0215,Practical guidance for robot safety: Test fail-safe behavior before unattended operation.,robotics,2026-02-12,original_demo_notes_v1
+DOC-0216,"Learning note on robot safety. Robot safety combines emergency stops, safeguards and risk assessment. Test fail-safe behavior before unattended operation.",robotics,2026-02-15,original_demo_notes_v1
+DOC-0217,patient privacy: Health applications must protect sensitive patient information.,health_technology,2026-02-18,original_demo_notes_v1
+DOC-0218,Practical guidance for patient privacy: Minimize collected data and restrict access.,health_technology,2026-02-21,original_demo_notes_v1
+DOC-0219,Learning note on patient privacy. Health applications must protect sensitive patient information. Minimize collected data and restrict access.,health_technology,2026-02-24,original_demo_notes_v1
+DOC-0220,medical imaging: Medical imaging captures internal anatomy using modalities such as CT and MRI.,health_technology,2026-02-27,original_demo_notes_v1
+DOC-0221,Practical guidance for medical imaging: Document modality and acquisition parameters.,health_technology,2026-03-02,original_demo_notes_v1
+DOC-0222,Learning note on medical imaging. Medical imaging captures internal anatomy using modalities such as CT and MRI. Document modality and acquisition parameters.,health_technology,2026-03-05,original_demo_notes_v1
+DOC-0223,wearable sensors: Wearables collect physiological or activity signals over time.,health_technology,2026-03-08,original_demo_notes_v1
+DOC-0224,Practical guidance for wearable sensors: Assess sensor placement and signal quality.,health_technology,2026-03-11,original_demo_notes_v1
+DOC-0225,Learning note on wearable sensors. Wearables collect physiological or activity signals over time. Assess sensor placement and signal quality.,health_technology,2026-03-14,original_demo_notes_v1
+DOC-0226,telemedicine: Telemedicine delivers some clinical services through remote communication.,health_technology,2026-03-17,original_demo_notes_v1
+DOC-0227,Practical guidance for telemedicine: Ensure secure connectivity and appropriate escalation.,health_technology,2026-03-20,original_demo_notes_v1
+DOC-0228,Learning note on telemedicine. Telemedicine delivers some clinical services through remote communication. Ensure secure connectivity and appropriate escalation.,health_technology,2026-03-23,original_demo_notes_v1
+DOC-0229,clinical decision support: Decision support tools provide information to assist clinicians.,health_technology,2026-03-26,original_demo_notes_v1
+DOC-0230,Practical guidance for clinical decision support: Keep human oversight for high-stakes decisions.,health_technology,2026-03-29,original_demo_notes_v1
+DOC-0231,Learning note on clinical decision support. Decision support tools provide information to assist clinicians. Keep human oversight for high-stakes decisions.,health_technology,2026-04-01,original_demo_notes_v1
+DOC-0232,electronic records: Electronic health records organize patient data for authorized care teams.,health_technology,2026-04-04,original_demo_notes_v1
+DOC-0233,Practical guidance for electronic records: Log access and protect backups.,health_technology,2026-04-07,original_demo_notes_v1
+DOC-0234,Learning note on electronic records. Electronic health records organize patient data for authorized care teams. Log access and protect backups.,health_technology,2026-04-10,original_demo_notes_v1
+DOC-0235,signal processing: Signal processing filters and analyzes measurements for useful patterns.,health_technology,2026-04-13,original_demo_notes_v1
+DOC-0236,Practical guidance for signal processing: Avoid removing clinically important features.,health_technology,2026-04-16,original_demo_notes_v1
+DOC-0237,Learning note on signal processing. Signal processing filters and analyzes measurements for useful patterns. Avoid removing clinically important features.,health_technology,2026-04-19,original_demo_notes_v1
+DOC-0238,device validation: Device validation checks whether a system meets defined requirements.,health_technology,2026-04-22,original_demo_notes_v1
+DOC-0239,Practical guidance for device validation: Test realistic conditions and report limitations.,health_technology,2026-04-25,original_demo_notes_v1
+DOC-0240,Learning note on device validation. Device validation checks whether a system meets defined requirements. Test realistic conditions and report limitations.,health_technology,2026-04-28,original_demo_notes_v1
+DOC-0241,spaced repetition: Spaced repetition schedules reviews farther apart as recall improves.,education,2026-05-01,original_demo_notes_v1
+DOC-0242,Practical guidance for spaced repetition: Use short recall sessions instead of rereading only.,education,2026-05-04,original_demo_notes_v1
+DOC-0243,Learning note on spaced repetition. Spaced repetition schedules reviews farther apart as recall improves. Use short recall sessions instead of rereading only.,education,2026-05-07,original_demo_notes_v1
+DOC-0244,active recall: Active recall retrieves information without looking at the answer.,education,2026-05-10,original_demo_notes_v1
+DOC-0245,Practical guidance for active recall: Use self-quizzes to identify weak areas.,education,2026-05-13,original_demo_notes_v1
+DOC-0246,Learning note on active recall. Active recall retrieves information without looking at the answer. Use self-quizzes to identify weak areas.,education,2026-05-16,original_demo_notes_v1
+DOC-0247,learning objectives: Learning objectives specify outcomes students should be able to demonstrate.,education,2026-05-19,original_demo_notes_v1
+DOC-0248,Practical guidance for learning objectives: Match exercises and tests to the intended outcomes.,education,2026-05-22,original_demo_notes_v1
+DOC-0249,Learning note on learning objectives. Learning objectives specify outcomes students should be able to demonstrate. Match exercises and tests to the intended outcomes.,education,2026-05-25,original_demo_notes_v1
+DOC-0250,project milestones: Milestones divide a large project into verifiable intermediate deliverables.,education,2026-05-28,original_demo_notes_v1
+DOC-0251,Practical guidance for project milestones: Check work before merging it into the main branch.,education,2026-05-31,original_demo_notes_v1
+DOC-0252,Learning note on project milestones. Milestones divide a large project into verifiable intermediate deliverables. Check work before merging it into the main branch.,education,2026-06-03,original_demo_notes_v1
+DOC-0253,peer feedback: Peer feedback provides external perspectives on drafts and projects.,education,2026-06-06,original_demo_notes_v1
+DOC-0254,Practical guidance for peer feedback: Request specific and actionable comments.,education,2026-06-09,original_demo_notes_v1
+DOC-0255,Learning note on peer feedback. Peer feedback provides external perspectives on drafts and projects. Request specific and actionable comments.,education,2026-06-12,original_demo_notes_v1
+DOC-0256,technical documentation: Documentation explains how a system works and how others can use it.,education,2026-06-15,original_demo_notes_v1
+DOC-0257,Practical guidance for technical documentation: Include reproducible commands and limitations.,education,2026-06-18,original_demo_notes_v1
+DOC-0258,Learning note on technical documentation. Documentation explains how a system works and how others can use it. Include reproducible commands and limitations.,education,2026-06-21,original_demo_notes_v1
+DOC-0259,debugging practice: Debugging isolates the cause of unexpected software behavior.,education,2026-06-24,original_demo_notes_v1
+DOC-0260,Practical guidance for debugging practice: Reproduce the issue before changing multiple variables.,education,2026-06-27,original_demo_notes_v1
+DOC-0261,Learning note on debugging practice. Debugging isolates the cause of unexpected software behavior. Reproduce the issue before changing multiple variables.,education,2026-06-30,original_demo_notes_v1
+DOC-0262,portfolio projects: Portfolio projects demonstrate applied skills through functioning examples.,education,2026-07-03,original_demo_notes_v1
+DOC-0263,"Practical guidance for portfolio projects: Provide screenshots, tests and a concise README.",education,2026-07-06,original_demo_notes_v1
+DOC-0264,"Learning note on portfolio projects. Portfolio projects demonstrate applied skills through functioning examples. Provide screenshots, tests and a concise README.",education,2026-07-09,original_demo_notes_v1
+DOC-0265,"task prioritization: Task prioritization ranks work by urgency, impact and dependencies.",productivity,2026-07-12,original_demo_notes_v1
+DOC-0266,Practical guidance for task prioritization: Complete blocking setup tasks before optional polishing.,productivity,2026-07-15,original_demo_notes_v1
+DOC-0267,"Learning note on task prioritization. Task prioritization ranks work by urgency, impact and dependencies. Complete blocking setup tasks before optional polishing.",productivity,2026-07-18,original_demo_notes_v1
+DOC-0268,version control: Version control records changes so a team can review and restore work.,productivity,2026-07-21,original_demo_notes_v1
+DOC-0269,Practical guidance for version control: Commit small coherent units with descriptive messages.,productivity,2026-07-24,original_demo_notes_v1
+DOC-0270,Learning note on version control. Version control records changes so a team can review and restore work. Commit small coherent units with descriptive messages.,productivity,2026-07-27,original_demo_notes_v1
+DOC-0271,feature branches: Feature branches isolate work until it is ready to merge.,productivity,2026-07-30,original_demo_notes_v1
+DOC-0272,Practical guidance for feature branches: Open pull requests after verifying the milestone.,productivity,2026-08-02,original_demo_notes_v1
+DOC-0273,Learning note on feature branches. Feature branches isolate work until it is ready to merge. Open pull requests after verifying the milestone.,productivity,2026-08-05,original_demo_notes_v1
+DOC-0274,time blocking: Time blocking reserves focused periods for specific activities.,productivity,2026-08-08,original_demo_notes_v1
+DOC-0275,Practical guidance for time blocking: Include realistic breaks and buffer time.,productivity,2026-08-11,original_demo_notes_v1
+DOC-0276,Learning note on time blocking. Time blocking reserves focused periods for specific activities. Include realistic breaks and buffer time.,productivity,2026-08-14,original_demo_notes_v1
+DOC-0277,"meeting notes: Meeting notes capture decisions, responsibilities and follow-up actions.",productivity,2026-08-17,original_demo_notes_v1
+DOC-0278,Practical guidance for meeting notes: Record owners and due dates clearly.,productivity,2026-08-20,original_demo_notes_v1
+DOC-0279,"Learning note on meeting notes. Meeting notes capture decisions, responsibilities and follow-up actions. Record owners and due dates clearly.",productivity,2026-08-23,original_demo_notes_v1
+DOC-0280,file organization: File organization uses consistent names and folder structures.,productivity,2026-08-26,original_demo_notes_v1
+DOC-0281,Practical guidance for file organization: Separate source data from generated artifacts.,productivity,2026-08-29,original_demo_notes_v1
+DOC-0282,Learning note on file organization. File organization uses consistent names and folder structures. Separate source data from generated artifacts.,productivity,2026-09-01,original_demo_notes_v1
+DOC-0283,checklists: Checklists reduce omissions during repeated workflows.,productivity,2026-09-04,original_demo_notes_v1
+DOC-0284,Practical guidance for checklists: Mark tasks complete only after verification.,productivity,2026-09-07,original_demo_notes_v1
+DOC-0285,Learning note on checklists. Checklists reduce omissions during repeated workflows. Mark tasks complete only after verification.,productivity,2026-09-10,original_demo_notes_v1
+DOC-0286,reproducibility: Reproducibility allows another person to repeat a workflow from documented inputs.,productivity,2026-09-13,original_demo_notes_v1
+DOC-0287,Practical guidance for reproducibility: Pin package versions and record data provenance.,productivity,2026-09-16,original_demo_notes_v1
+DOC-0288,Learning note on reproducibility. Reproducibility allows another person to repeat a workflow from documented inputs. Pin package versions and record data provenance.,productivity,2026-09-19,original_demo_notes_v1
