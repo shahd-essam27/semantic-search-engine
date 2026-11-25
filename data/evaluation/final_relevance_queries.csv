@@ -1,0 +1,6 @@
+query_id,query,relevant_ids,split,note
+FINAL-01,How can I divide an IP address into network and host parts?,DOC-0001;DOC-0002;DOC-0003,held_out,Manual demonstration judgement
+FINAL-02,How can you link tables using matching columns?,DOC-0145;DOC-0146;DOC-0147,held_out,Manual demonstration judgement
+FINAL-03,What instruments let a robot sense its surroundings?,DOC-0193;DOC-0194;DOC-0195,held_out,Manual demonstration judgement
+FINAL-04,How can learning sessions be scheduled to remember longer?,DOC-0241;DOC-0242;DOC-0243,held_out,Manual demonstration judgement
+FINAL-05,How should I order tasks based on urgency and importance?,DOC-0265;DOC-0266;DOC-0267,held_out,Manual demonstration judgement
