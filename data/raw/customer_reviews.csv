@@ -1,0 +1,127 @@
+id,text,category,source
+REV-0001,The battery lasted the whole workday even with heavy use.,battery,original_synthetic_demo_review
+REV-0002,Power drains too quickly when I stream videos.,battery,original_synthetic_demo_review
+REV-0003,Charging takes hours longer than the product description promised.,battery,original_synthetic_demo_review
+REV-0004,I can travel without carrying the charger because battery life is excellent.,battery,original_synthetic_demo_review
+REV-0005,The device overheats when I charge it overnight.,battery,original_synthetic_demo_review
+REV-0006,After two months the battery only holds half its previous charge.,battery,original_synthetic_demo_review
+REV-0007,I appreciate the quick charge feature during a short break.,battery,original_synthetic_demo_review
+REV-0008,The battery indicator is unreliable and jumps from forty to ten percent.,battery,original_synthetic_demo_review
+REV-0009,This product stays powered on throughout a long flight.,battery,original_synthetic_demo_review
+REV-0010,"I need to recharge it twice a day, which is inconvenient.",battery,original_synthetic_demo_review
+REV-0011,Fast charging works well with the included adapter.,battery,original_synthetic_demo_review
+REV-0012,Low-power mode makes the battery last noticeably longer.,battery,original_synthetic_demo_review
+REV-0013,Standby power consumption is surprisingly low.,battery,original_synthetic_demo_review
+REV-0014,Battery performance gets worse in cold weather.,battery,original_synthetic_demo_review
+REV-0015,The charger cable disconnected several times during charging.,battery,original_synthetic_demo_review
+REV-0016,I wish the battery were replaceable instead of sealed inside.,battery,original_synthetic_demo_review
+REV-0017,It reaches full charge quickly and holds it for hours.,battery,original_synthetic_demo_review
+REV-0018,Power usage is much higher when using location services.,battery,original_synthetic_demo_review
+REV-0019,The battery still works well after several months.,battery,original_synthetic_demo_review
+REV-0020,A charging alert would prevent unexpected shutdowns.,battery,original_synthetic_demo_review
+REV-0021,My package arrived three days earlier than expected.,delivery,original_synthetic_demo_review
+REV-0022,The courier delivered my order to the wrong building.,delivery,original_synthetic_demo_review
+REV-0023,Shipping updates were accurate from dispatch to arrival.,delivery,original_synthetic_demo_review
+REV-0024,The box was delayed for a week without an explanation.,delivery,original_synthetic_demo_review
+REV-0025,I could track the shipment and plan to be home.,delivery,original_synthetic_demo_review
+REV-0026,The delivery driver called before arriving at the apartment.,delivery,original_synthetic_demo_review
+REV-0027,International shipping took much longer than the estimated window.,delivery,original_synthetic_demo_review
+REV-0028,My parcel was left outside in the rain.,delivery,original_synthetic_demo_review
+REV-0029,The express shipping fee was worth the quick arrival.,delivery,original_synthetic_demo_review
+REV-0030,The tracking link stopped updating after the parcel left the warehouse.,delivery,original_synthetic_demo_review
+REV-0031,Delivery was on time and the packaging was intact.,delivery,original_synthetic_demo_review
+REV-0032,My order was split into two shipments without warning.,delivery,original_synthetic_demo_review
+REV-0033,The carrier misplaced the package but found it the next day.,delivery,original_synthetic_demo_review
+REV-0034,The product reached me within two business days.,delivery,original_synthetic_demo_review
+REV-0035,Saturday delivery was convenient for my schedule.,delivery,original_synthetic_demo_review
+REV-0036,The shipment required a signature even though I was not told.,delivery,original_synthetic_demo_review
+REV-0037,I received a shipping notification after the item had already arrived.,delivery,original_synthetic_demo_review
+REV-0038,The parcel was routed through the wrong city.,delivery,original_synthetic_demo_review
+REV-0039,The package arrived at the specified pickup point.,delivery,original_synthetic_demo_review
+REV-0040,The promised delivery date changed several times.,delivery,original_synthetic_demo_review
+REV-0041,The support agent resolved my issue during the first chat.,customer_support,original_synthetic_demo_review
+REV-0042,I waited several days for a reply to my email.,customer_support,original_synthetic_demo_review
+REV-0043,Customer service explained the warranty terms clearly.,customer_support,original_synthetic_demo_review
+REV-0044,The help desk repeatedly sent generic replies instead of answering.,customer_support,original_synthetic_demo_review
+REV-0045,The agent was patient when I explained the problem.,customer_support,original_synthetic_demo_review
+REV-0046,The company replaced my defective item without an argument.,customer_support,original_synthetic_demo_review
+REV-0047,I had to contact support four times to get a refund update.,customer_support,original_synthetic_demo_review
+REV-0048,The live chat representative provided a useful troubleshooting guide.,customer_support,original_synthetic_demo_review
+REV-0049,Support closed my ticket before the issue was fixed.,customer_support,original_synthetic_demo_review
+REV-0050,The team followed up a day later to confirm the solution worked.,customer_support,original_synthetic_demo_review
+REV-0051,No one answered the customer service phone number.,customer_support,original_synthetic_demo_review
+REV-0052,The support representative understood the technical issue immediately.,customer_support,original_synthetic_demo_review
+REV-0053,I received conflicting answers from two agents.,customer_support,original_synthetic_demo_review
+REV-0054,The warranty claim was processed without extra paperwork.,customer_support,original_synthetic_demo_review
+REV-0055,Help center instructions were clear and easy to follow.,customer_support,original_synthetic_demo_review
+REV-0056,The return department took too long to respond.,customer_support,original_synthetic_demo_review
+REV-0057,A helpful agent walked me through the setup over the phone.,customer_support,original_synthetic_demo_review
+REV-0058,My ticket was transferred between teams repeatedly.,customer_support,original_synthetic_demo_review
+REV-0059,Technical support identified the broken part quickly.,customer_support,original_synthetic_demo_review
+REV-0060,The store never responded to my request for assistance.,customer_support,original_synthetic_demo_review
+REV-0061,The interface is intuitive and I found every setting quickly.,usability,original_synthetic_demo_review
+REV-0062,Menus are confusing and basic actions require too many taps.,usability,original_synthetic_demo_review
+REV-0063,The setup wizard helped me configure the device in minutes.,usability,original_synthetic_demo_review
+REV-0064,The application freezes when switching between screens.,usability,original_synthetic_demo_review
+REV-0065,Buttons have clear labels and are easy to find.,usability,original_synthetic_demo_review
+REV-0066,I struggled to change the language in the settings menu.,usability,original_synthetic_demo_review
+REV-0067,The instructions were simple enough for a first-time user.,usability,original_synthetic_demo_review
+REV-0068,Frequent popups interrupt the main workflow.,usability,original_synthetic_demo_review
+REV-0069,The search feature inside the app is easy to use.,usability,original_synthetic_demo_review
+REV-0070,The touchscreen responds quickly to gestures.,usability,original_synthetic_demo_review
+REV-0071,Important options are buried under several menus.,usability,original_synthetic_demo_review
+REV-0072,I like the clean layout and readable text.,usability,original_synthetic_demo_review
+REV-0073,The onboarding tutorial skipped an important step.,usability,original_synthetic_demo_review
+REV-0074,A keyboard shortcut makes repeated actions much easier.,usability,original_synthetic_demo_review
+REV-0075,The app crashed twice during the installation process.,usability,original_synthetic_demo_review
+REV-0076,The navigation is consistent on every screen.,usability,original_synthetic_demo_review
+REV-0077,The screen has too many icons and no clear grouping.,usability,original_synthetic_demo_review
+REV-0078,Updating the settings takes only a few seconds.,usability,original_synthetic_demo_review
+REV-0079,The interface works well with accessibility tools.,usability,original_synthetic_demo_review
+REV-0080,The controls were difficult to learn without a manual.,usability,original_synthetic_demo_review
+REV-0081,The product offers excellent features for the price.,value,original_synthetic_demo_review
+REV-0082,This item costs too much for what it delivers.,value,original_synthetic_demo_review
+REV-0083,I found a cheaper alternative with similar performance.,value,original_synthetic_demo_review
+REV-0084,The discount made the purchase worthwhile.,value,original_synthetic_demo_review
+REV-0085,The subscription fee is difficult to justify.,value,original_synthetic_demo_review
+REV-0086,Overall I feel I received good value for my money.,value,original_synthetic_demo_review
+REV-0087,The premium version adds very little beyond the free plan.,value,original_synthetic_demo_review
+REV-0088,A lower price would make this an easy recommendation.,value,original_synthetic_demo_review
+REV-0089,I saved money by buying the bundle instead of individual parts.,value,original_synthetic_demo_review
+REV-0090,The replacement accessories are unreasonably expensive.,value,original_synthetic_demo_review
+REV-0091,For this budget the quality exceeded my expectations.,value,original_synthetic_demo_review
+REV-0092,I regret paying full price just before a sale.,value,original_synthetic_demo_review
+REV-0093,The monthly cost adds up over time.,value,original_synthetic_demo_review
+REV-0094,Comparable products sell for less elsewhere.,value,original_synthetic_demo_review
+REV-0095,The included warranty improves the overall value.,value,original_synthetic_demo_review
+REV-0096,The extra accessories make the package a good deal.,value,original_synthetic_demo_review
+REV-0097,The cost was reasonable given the advanced features.,value,original_synthetic_demo_review
+REV-0098,I would not purchase this again at the current price.,value,original_synthetic_demo_review
+REV-0099,There are better options in the same price range.,value,original_synthetic_demo_review
+REV-0100,"Despite the price, the product feels worth owning.",value,original_synthetic_demo_review
+REV-0101,The outer shell feels sturdy and well assembled.,build_quality,original_synthetic_demo_review
+REV-0102,The hinge broke after only a few weeks of normal use.,build_quality,original_synthetic_demo_review
+REV-0103,Materials look premium and resist scratches.,build_quality,original_synthetic_demo_review
+REV-0104,Loose parts rattle when the device is moved.,build_quality,original_synthetic_demo_review
+REV-0105,The buttons feel solid and click consistently.,build_quality,original_synthetic_demo_review
+REV-0106,A crack appeared in the plastic frame near the corner.,build_quality,original_synthetic_demo_review
+REV-0107,The metal casing protects the product during travel.,build_quality,original_synthetic_demo_review
+REV-0108,The finish started peeling almost immediately.,build_quality,original_synthetic_demo_review
+REV-0109,Everything fits together without gaps or sharp edges.,build_quality,original_synthetic_demo_review
+REV-0110,The construction feels lightweight but not flimsy.,build_quality,original_synthetic_demo_review
+REV-0111,The lid does not close properly and feels misaligned.,build_quality,original_synthetic_demo_review
+REV-0112,The product survived several accidental drops.,build_quality,original_synthetic_demo_review
+REV-0113,The coating scratches whenever it touches keys.,build_quality,original_synthetic_demo_review
+REV-0114,Seams are neat and the joints seem durable.,build_quality,original_synthetic_demo_review
+REV-0115,One of the screws came loose during the first month.,build_quality,original_synthetic_demo_review
+REV-0116,The handle is strong enough for daily use.,build_quality,original_synthetic_demo_review
+REV-0117,The housing bends under moderate pressure.,build_quality,original_synthetic_demo_review
+REV-0118,The craftsmanship is better than I expected.,build_quality,original_synthetic_demo_review
+REV-0119,The rubber feet keep falling off the bottom.,build_quality,original_synthetic_demo_review
+REV-0120,The parts feel durable despite frequent handling.,build_quality,original_synthetic_demo_review
+REV-0121,The battery lasts all day even during heavy use.,battery,original_synthetic_demo_review
+REV-0122,The package arrived three days ahead of schedule.,delivery,original_synthetic_demo_review
+REV-0123,The support agent solved my issue in our first chat.,customer_support,original_synthetic_demo_review
+REV-0124,"The menus are confusing, and even simple tasks take too many taps.",usability,original_synthetic_demo_review
+REV-0125,This product has excellent features for its price.,value,original_synthetic_demo_review
+REV-0126,The outer casing feels sturdy and solidly assembled.,build_quality,original_synthetic_demo_review
